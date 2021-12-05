@@ -2,7 +2,7 @@
 Refer the Manual for detailed steps.
 
 1)	Create a conda environment 
-a)	At first, we’ll create a conda called QTB
+a) At first, we’ll create a conda called QTB
 conda create -n QTB python=3.7.9 
 b)	Now log in to the QTB environment 
 conda activate QTB 
